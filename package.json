@@ -1,0 +1,13 @@
+{
+  "name": "pinned-repos",
+  "version": "0.0.0",
+  "description": "Get pinned repos from GitHub user.",
+  "main": "app.js",
+  "repository": "https://github.com/dusansimic/pinned-repos",
+  "author": "Dušan Simić <dusan.simic1810@gmail.com> (http://dusansimic.me)",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^8.3.0",
+    "micro": "^9.1.4"
+  }
+}
